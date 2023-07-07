@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Maestre</h1>
 <h3 align="center">Frontend developer.</h3>
 
-- 🔭 I’m currently working on [CoffeeApp](https://github.com/angelguardian147/CoffeeApp.git)
+- 🔭 I’m currently working on [CoffeeApp](https://github.com/ajmaestre/CoffeeApp.git)
 
 - 🌱 I’m currently learning **Django, Laravel**
 
