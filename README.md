@@ -1,5 +1,5 @@
 <div>
-    <img src="images/background.png">
+    <img src="images/fondo-linkedIn.png">
 </div>
 <h1 align="center">Hi 👋, I'm Alexander Maestre</h1>
 <h3 align="center">Fullstack developer.</h3>
