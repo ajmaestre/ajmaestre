@@ -2,7 +2,7 @@
     <img src="images/background.png">
 </div>
 <h1 align="center">Hi 👋, I'm Alexander Maestre</h1>
-<h3 align="center">Frontend developer.</h3>
+<h3 align="center">Fullstack developer.</h3>
 
 - 🔭 I’m currently working on [CoffeeApp](https://github.com/ajmaestre/CoffeeApp.git)
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Reserhab](https://github.com/angelguardian147/reserhab.git)
 
-- 👨‍💻 All of my projects are available at [https://ajmaestre.github.io/portfolio/home](https://ajmaestre.github.io/portfolio/home)
+- 👨‍💻 All of my projects are available at [https://ajmaestre.github.io/portfolio/home](https://ajmaestre.github.io/portfolio)
 
 - 💬 Ask me about **Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, POO, Python**
 
